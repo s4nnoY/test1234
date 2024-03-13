@@ -1,0 +1,22 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6ff76992-785e-4fb4-8ec2-c7b2c99b409a")
+	(paper "A4")
+	(title_block
+		(title "S-12016-Helicopter Rotor")
+		(date "2024-03-13")
+		(rev "V1.0.0")
+		(company "D and P")
+		(comment 1 "FA-24098898")
+		(comment 2 "Meyer")
+		(comment 3 "National Air and Space Museum East End")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
